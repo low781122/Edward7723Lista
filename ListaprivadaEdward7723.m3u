@@ -1,0 +1,319 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CINE ACCION 01
+http://planettvweb.com:8091/Monica614/DNap4365t/20347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 02
+http://planettvweb.com:8091/Monica614/DNap4365t/74599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 03
+http://planettvweb.com:8091/Monica614/DNap4365t/74600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 04
+http://planettvweb.com:8091/Monica614/DNap4365t/74601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 05
+http://planettvweb.com:8091/Monica614/DNap4365t/74602
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Animaciones
+http://planettvweb.com:8091/Monica614/DNap4365t/74603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El mentalista
+http://planettvweb.com:8091/Monica614/DNap4365t/74604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Cine Club
+http://planettvweb.com:8091/Monica614/DNap4365t/74605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Familiar 01
+http://planettvweb.com:8091/Monica614/DNap4365t/74606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: ORO
+http://planettvweb.com:8091/Monica614/DNap4365t/74607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/Monica614/DNap4365t/74608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", DraginBall
+http://planettvweb.com:8091/Monica614/DNap4365t/74609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon BallGT
+http://planettvweb.com:8091/Monica614/DNap4365t/74610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon Ball Super
+http://planettvweb.com:8091/Monica614/DNap4365t/74611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragin Ball Z
+http://planettvweb.com:8091/Monica614/DNap4365t/74612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Family Guy
+http://planettvweb.com:8091/Monica614/DNap4365t/74613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Clásicos Disney
+http://planettvweb.com:8091/Monica614/DNap4365t/74614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/Monica614/DNap4365t/74615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Universo DC
+http://planettvweb.com:8091/Monica614/DNap4365t/74616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Batman
+http://planettvweb.com:8091/Monica614/DNap4365t/74617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Game of Thrones HD
+http://planettvweb.com:8091/Monica614/DNap4365t/74618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las nuevas aventuras de Batman
+http://planettvweb.com:8091/Monica614/DNap4365t/74619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", House of Cards
+http://planettvweb.com:8091/Monica614/DNap4365t/74620
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", La casa de papel
+http://planettvweb.com:8091/Monica614/DNap4365t/20341
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", DR House
+http://planettvweb.com:8091/Monica614/DNap4365t/20342
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Cronologia
+http://planettvweb.com:8091/Monica614/DNap4365t/20343
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Breaking Bad [Completo]
+http://planettvweb.com:8091/Monica614/DNap4365t/20344
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/Monica614/DNap4365t/20345
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Ficcion/Fantasia 2
+http://planettvweb.com:8091/Monica614/DNap4365t/20346
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los años maravillosos
+http://planettvweb.com:8091/Monica614/DNap4365t/20348
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil
+http://planettvweb.com:8091/Monica614/DNap4365t/20349
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil HD
+http://planettvweb.com:8091/Monica614/DNap4365t/20350
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil Sagas HD
+http://planettvweb.com:8091/Monica614/DNap4365t/20351
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Latino
+http://planettvweb.com:8091/Monica614/DNap4365t/20352
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/Monica614/DNap4365t/20353
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Romance HD
+http://planettvweb.com:8091/Monica614/DNap4365t/20354
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Bob Esponja
+http://planettvweb.com:8091/Monica614/DNap4365t/16421
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CANTINFLAS SD
+http://planettvweb.com:8091/Monica614/DNap4365t/16422
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Chespirito
+http://planettvweb.com:8091/Monica614/DNap4365t/16423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin senos sí hay paraíso
+http://planettvweb.com:8091/Monica614/DNap4365t/38574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/Monica614/DNap4365t/38575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/Monica614/DNap4365t/38576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin Senos no hay Paraíso
+http://planettvweb.com:8091/Monica614/DNap4365t/38577
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:EL CHAVO DEL 8
+http://planettvweb.com:8091/Monica614/DNap4365t/16425
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA_SD:CHAPULIN COLORADO
+http://planettvweb.com:8091/Monica614/DNap4365t/16426
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:MR. BEAN
+http://planettvweb.com:8091/Monica614/DNap4365t/16427
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Looney Tunes
+http://planettvweb.com:8091/Monica614/DNap4365t/16428
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Scooby Doo
+http://planettvweb.com:8091/Monica614/DNap4365t/16429
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Alf
+http://planettvweb.com:8091/Monica614/DNap4365t/16430
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Los Picapiedra
+http://planettvweb.com:8091/Monica614/DNap4365t/16431
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Two And a Half Men 24/7
+http://planettvweb.com:8091/Monica614/DNap4365t/16432
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Dragon Ball GT
+http://planettvweb.com:8091/Monica614/DNap4365t/16434
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Naruto
+http://planettvweb.com:8091/Monica614/DNap4365t/16436
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Friends
+http://planettvweb.com:8091/Monica614/DNap4365t/16437
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Elfen Lied
+http://planettvweb.com:8091/Monica614/DNap4365t/17747
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Looney Tunes
+http://planettvweb.com:8091/Monica614/DNap4365t/17748
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/Monica614/DNap4365t/17749
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/Monica614/DNap4365t/17751
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/Monica614/DNap4365t/17752
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Daremound
+http://planettvweb.com:8091/Monica614/DNap4365t/17753
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Scary Movie
+http://planettvweb.com:8091/Monica614/DNap4365t/17754
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", PINKI ELVIRA Y CEREBRO
+http://planettvweb.com:8091/Monica614/DNap4365t/17755
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Pokémon
+http://planettvweb.com:8091/Monica614/DNap4365t/17761
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los Picapiedra
+http://planettvweb.com:8091/Monica614/DNap4365t/17763
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Un Show Más
+http://planettvweb.com:8091/Monica614/DNap4365t/17764
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA PANTERA ROSA
+http://planettvweb.com:8091/Monica614/DNap4365t/17765
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", GARFIELD Y SUS AMIGOS
+http://planettvweb.com:8091/Monica614/DNap4365t/17767
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", EL SHOW DE LA PEQUEÑA LU LU
+http://planettvweb.com:8091/Monica614/DNap4365t/17769
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Pablo Escobar
+http://planettvweb.com:8091/Monica614/DNap4365t/17770
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CORAJE EL PERRO COBARDE
+http://planettvweb.com:8091/Monica614/DNap4365t/17773
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Dinosaurios
+http://planettvweb.com:8091/Monica614/DNap4365t/17775
+
+
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/Monica614/DNap4365t/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/Monica614/DNap4365t/14263
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/Monica614/DNap4365t/11910
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/Monica614/DNap4365t/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/Monica614/DNap4365t/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12498
+
+#EXTINF:-1 tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12050
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/Monica614/DNap4365t/12116
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/Monica614/DNap4365t/12049
+
+#EXTINF:-1 tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/Monica614/DNap4365t/12048
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/Monica614/DNap4365t/12047
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/Monica614/DNap4365t/22347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES ESPAÑA", MOVISTAR VAMOS
+http://planettvweb.com:8091/Monica614/DNap4365t/12102
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78KfOGOqXvTja8lRFwgjmkprRmI.jpg" group-title="PELICULAS DE COMEDIAS", Un hipster en la España vacía (2024)
+http://planettvweb.com:8091/movie/Monica614/DNap4365t/99130.mkv
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_RGB_h_monocromatico_negativo/LALIGA_RGB_h_monocromatico_negativo.png" group-title="EVENTOS DEL DIA", FUTBOL DE ESPAÑA
+http://planettvweb.com:8091/Monica614/DNap4365t/14783
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atres-series-logo-3BA3503760-seeklogo.com.png" group-title="ESPAÑA", A3 Series HD
+http://planettvweb.com:8091/Monica614/DNap4365t/16539
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/Monica614/DNap4365t/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/Monica614/DNap4365t/14263
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/Monica614/DNap4365t/11910
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/Monica614/DNap4365t/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/Monica614/DNap4365t/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12498
+
+#EXTINF:-1 tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/Monica614/DNap4365t/12050
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/Monica614/DNap4365t/12116
+
+#EXTINF:-1 tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/Monica614/DNap4365t/12048
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/Monica614/DNap4365t/12047
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/Monica614/DNap4365t/22347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA", TVE 24H
+http://planettvweb.com:8091/Monica614/DNap4365t/17895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", LA SEXTA
+http://planettvweb.com:8091/Monica614/DNap4365t/18003
+
+
+
+
+
